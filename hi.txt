@@ -2,3 +2,7 @@ hi i am sudhir
 Hi I am chawla
 once more
 two more
+
+add one more line from machine3`:wq!
+
+
